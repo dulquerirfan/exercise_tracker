@@ -1,0 +1,17 @@
+img{
+    width:290%;
+    height:105%;
+    position:absolute;
+    bottom:-2%;
+    right:10%;
+    left:-90%;
+    top:-1%;
+}
+.exercise_reason{
+    position:absolute;
+    top:110%;
+}
+.exercise_us{
+    position:absolute;
+    top:160%;
+}

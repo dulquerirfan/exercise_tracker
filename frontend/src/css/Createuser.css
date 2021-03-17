@@ -1,0 +1,32 @@
+h1{
+    text-transform:uppercase;
+    letter-spacing: 1px;
+}
+label{
+    font-size: small;
+    font-weight:bold;
+    margin-bottom:10px;
+}
+input{
+    margin-top:20px;
+    border:solid black 2px;
+    border-radius:5px;
+}
+form{
+    position:absolute;
+    left:35%;
+}
+.button{
+    width:120%;
+    position: relative;
+    right:20px;
+    height:40px;
+    border-radius: 0px;
+    font-weight:bolder;
+    text-transform: uppercase;
+    background-color: #1f2985;
+    border:none;
+}
+.button:hover{
+    background-color:burlywood;
+}

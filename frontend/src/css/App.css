@@ -1,0 +1,9 @@
+.components{
+    height:60%;
+    width:30%;
+    border:solid black 2px;
+    padding:30px;
+    position:absolute;
+    left:30%;
+    margin-top:10px;
+}
